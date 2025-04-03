@@ -1,5 +1,5 @@
 # LEAFLENS: LEAF IDENTIFICATION SYSTEM 🌿
-Dive into the world of botany with LeafLens. Armed with the power of the Xception model, this project transforms your device into a leaf-identifying superhero. Simply upload an image, and let LeafLens unveil the mysteries of nature one leaf at a time! Whether you're a curious nature lover or a budding botanist, LeafLens is here to help you discover the leafy wonders around you. 🌿🔍
+Dive into the world of **medicinal botany** with **LeafLens**! 🌿✨ Powered by the **Xception model**, this ML-driven tool identifies leaves and reveals their **medicinal properties**. Simply upload an image, and let LeafLens unlock nature’s healing secrets—one leaf at a time! Whether you're a **health enthusiast, herbalist, or botanist**, LeafLens is your guide to the world of medicinal plants. 🔍🍃
 
 # ABSTRACT
 
@@ -74,4 +74,4 @@ Output:
 
 # Conclusion:
 
-Saving the model and its weights ensures efficient reuse for inference or further training. Integrating it into a user-friendly interface with image uploads makes LeafLens valuable for biodiversity research and education.
+Saving the model and its weights ensures efficient reuse for future inference or training. By integrating it into a **user-friendly interface** with image uploads, **LeafLens** becomes a powerful tool for **healthcare, herbal research, and biodiversity studies**, aiding in the exploration of medicinal plant properties. 🌿💡
