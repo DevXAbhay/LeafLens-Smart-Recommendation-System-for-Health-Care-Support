@@ -60,18 +60,21 @@ Additional information regarding the identified species will be shown on the scr
 
 # Screenshot:
 
-Upload Image:
+# Upload Image:
 
 ![Streaming](https://github.com/user-attachments/assets/6acb9e9e-bd9a-4254-aa7e-a72379437f15)
 
-Working on the Image:
+# Working on the Image:
 
 ![Working_IMG1](https://github.com/user-attachments/assets/ae889728-8c9f-4bba-ad02-4fde3659c2d0)
 
-Output:
+# Output:
 
 ![Working_IMG2](https://github.com/user-attachments/assets/eecabd23-1854-4c2e-a5d7-1f74dec5a25c)
 
 # Conclusion:
 
 Saving the model and its weights ensures efficient reuse for future inference or training. By integrating it into a **user-friendly interface** with image uploads, **LeafLens** becomes a powerful tool for **healthcare, herbal research, and biodiversity studies**, aiding in the exploration of medicinal plant properties. 🌿💡
+
+# Author
+ABHAY ARORA
