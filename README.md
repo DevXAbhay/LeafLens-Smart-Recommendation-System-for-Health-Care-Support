@@ -31,6 +31,7 @@ Setup:
 -Ensure you have Python installed on your system.
 
 -Make sure the required libraries (streamlit, tensorflow, and numpy) are installed. You can install them using:
+
 pip install streamlit tensorflow numpy
 
 Run the Program:
@@ -38,6 +39,7 @@ Run the Program:
 -Navigate to the main folder of the project.
 
 -Open the command prompt (CMD) and execute:
+
 streamlit run main.py
 
 -Upload an Image:
