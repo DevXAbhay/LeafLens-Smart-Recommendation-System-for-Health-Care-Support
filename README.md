@@ -28,29 +28,35 @@ Uploading an Image for Leaf Identification
 The LeafLens project allows users to identify leaves by manually uploading an image. Follow these steps to get started:
 Setup:
 
-Ensure you have Python installed on your system.
-Make sure the required libraries (streamlit, tensorflow, and numpy) are installed. You can install them using:
+-Ensure you have Python installed on your system.
+
+-Make sure the required libraries (streamlit, tensorflow, and numpy) are installed. You can install them using:
 pip install streamlit tensorflow numpy
+
 Run the Program:
 
-Navigate to the main folder of the project.
-Open the command prompt (CMD) and execute:
+-Navigate to the main folder of the project.
+
+-Open the command prompt (CMD) and execute:
 streamlit run main.py
-Upload an Image:
+
+-Upload an Image:
 
 Once the Streamlit app opens in your browser, you will see an option to upload an image.
 Select the image of the leaf you want to identify and upload it.
-View Prediction:
+
+-View Prediction:
 
 The model will process the uploaded image and display the predicted class along with confidence scores.
 Additional information regarding the identified species will be shown on the screen.
-Exit the Program:
 
-Close the browser tab or stop the Streamlit server from the command line if needed.
+-Exit the Program:
+
+-Close the browser tab or stop the Streamlit server from the command line if needed.
 
 # Important Notes:
-Ensure the image quality is good for better accuracy in predictions.
-The model's predictions depend on the training dataset; therefore, it may not recognize all leaf species accurately.
+-Ensure the image quality is good for better accuracy in predictions.
+-The model's predictions depend on the training dataset; therefore, it may not recognize all leaf species accurately.
 
 # Screenshot:
 
