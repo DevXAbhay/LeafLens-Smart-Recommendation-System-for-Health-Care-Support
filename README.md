@@ -26,6 +26,7 @@ Each class corresponds to a specific leaf species, facilitating supervised learn
 Uploading an Image for Leaf Identification
 
 The LeafLens project allows users to identify leaves by manually uploading an image. Follow these steps to get started:
+
 Setup:
 
 -Ensure you have Python installed on your system.
@@ -79,4 +80,5 @@ Additional information regarding the identified species will be shown on the scr
 Saving the model and its weights ensures efficient reuse for future inference or training. By integrating it into a **user-friendly interface** with image uploads, **LeafLens** becomes a powerful tool for **healthcare, herbal research, and biodiversity studies**, aiding in the exploration of medicinal plant properties. 🌿💡
 
 # Author
+
 ABHAY ARORA
