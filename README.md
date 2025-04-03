@@ -59,6 +59,7 @@ Additional information regarding the identified species will be shown on the scr
 
 # Important Notes:
 -Ensure the image quality is good for better accuracy in predictions.
+
 -The model's predictions depend on the training dataset; therefore, it may not recognize all leaf species accurately.
 
 # Screenshot:
